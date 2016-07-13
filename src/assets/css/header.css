@@ -1,0 +1,17 @@
+img#avatar {
+	margin: 5px auto 20px auto;
+    display: block;
+    width: 120px;
+    height: 140px;
+}
+
+img#qr_code {
+	margin: 20px auto 20px auto;
+    display: block;
+    width: 150px;
+    height: 150px;
+}
+
+.presentation {
+	text-align: center;
+}
