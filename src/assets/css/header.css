@@ -17,15 +17,21 @@ img#qr_code {
 }
 
 body {
-	font-size: 12px;
+	-webkit-print-color-adjust:exact;
+	zoom: 70%;
+	-ms-zoom: 0.7;
+	-webkit-zoom: 0.7;
+	-moz-transform:  scale(0.7,0.7);
+	-moz-transform-origin: left top;
 }
+
 h1 {
-	font-size: 22px;
+	font-size: 28px;
 }
 h2 {
-	font-size: 16px;
+	font-size: 22px;
 }
 h3 {
-	font-size: 14px;
+	font-size: 16px;
 	font-weight: bold;
 }
