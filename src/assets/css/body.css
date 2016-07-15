@@ -1,0 +1,21 @@
+div.section {
+	/*background-color: grey;*/
+}
+
+div.section h1 {
+
+}
+
+.item-title {
+	color: green;
+	font-style: italic;
+	display: block;
+}
+.item-info {
+	color: green;
+	display: block;
+	font-size: 80%;
+}
+.item h2 {
+	margin-top: 5px;
+}
